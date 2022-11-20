@@ -4,4 +4,4 @@
 - :zap: I have already worked with: JS, TS, NodeJS, C#, SCSS, CSS, HTML
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Handehoch&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Handehoch&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Handehoch&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

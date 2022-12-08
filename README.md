@@ -3,7 +3,7 @@
 ## About me
 - :sunglasses: I'm Borislav
 - :school: Living in Yekarerinburg and studying at Ural Federal University
-- 🌱 Currently learning: NestJS, TS, Angular, SQL and Databases, Modern HTML and CSS
+- 🌱 Currently learning: .NET, NestJS, TS, Angular, SQL and Databases, Modern HTML and CSS
 - :zap: A little experienced in: JS, TS, NodeJS, C#, SCSS, CSS, HTML
 
 ## Statistics

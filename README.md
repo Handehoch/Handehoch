@@ -4,7 +4,7 @@
 - Borislav, frontend developer
 - Russia, Yekarerinburg
 - Brainfrontended
-- JS, TS ==> Angular, Nest && Golang
+- JS, TS --> Angular, Nest && Golang
 
 ## Statistics
 

@@ -1,10 +1,10 @@
 # Hello there!
 
 ## About me
-- :sunglasses: I'm Borislav
-- :school: Living in Yekarerinburg and studying at Ural Federal University
-- 🌱 Currently learning: .NET, NestJS, TS, Angular, SQL and Databases, Modern HTML and CSS
-- :zap: A little experienced in: JS, TS, NodeJS, C#, SCSS, CSS, HTML
+- Borislav, frontend developer
+- Russia, Yekarerinburg
+- Brainfrontended
+- JS, TS ==> Angular, Nest && Golang
 
 ## Statistics
 
